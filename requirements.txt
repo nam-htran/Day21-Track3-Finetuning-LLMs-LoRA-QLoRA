@@ -1,0 +1,6 @@
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+trl>=0.12,<0.16
+peft
+transformers>=4.46
+bitsandbytes
+datasets
